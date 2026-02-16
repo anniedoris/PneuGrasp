@@ -1,3 +1,3 @@
-# GraspIt
+# PneuGrasp
 
 Coming soon!
